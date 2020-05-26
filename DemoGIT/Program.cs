@@ -8,6 +8,7 @@ namespace DemoGIT
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("1");
+            Console.WriteLine("2");
         }
     }
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Long L\\Desktop\\demo1\\DemoGIT\\DemoGIT\\DemoGIT.csproj",
+      "projectUniqueName": "C:\\Users\\Long L\\Desktop\\demo2\\DemoGIT\\DemoGIT\\DemoGIT.csproj",
       "projectName": "DemoGIT",
-      "projectPath": "C:\\Users\\Long L\\Desktop\\demo1\\DemoGIT\\DemoGIT\\DemoGIT.csproj",
+      "projectPath": "C:\\Users\\Long L\\Desktop\\demo2\\DemoGIT\\DemoGIT\\DemoGIT.csproj",
       "packagesPath": "C:\\Users\\Long L\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Long L\\Desktop\\demo1\\DemoGIT\\DemoGIT\\obj\\",
+      "outputPath": "C:\\Users\\Long L\\Desktop\\demo2\\DemoGIT\\DemoGIT\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Long L\\AppData\\Roaming\\NuGet\\NuGet.Config",
