@@ -7,6 +7,7 @@ namespace DemoGIT
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("1");
         }
     }
 }
